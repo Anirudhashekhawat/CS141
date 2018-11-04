@@ -1,0 +1,25 @@
+1.printing output-
+*P3=s
+*P3=T    ,P3=6940
+*P1=S    ,P1=6940
+-----------------------------------------------------
+2.D.*P=75
+-----------------------------------------------------
+3.Pointer p is a double type,so it should print double variable.But it had been made to point 
+to char variable.
+-----------------------------------------------------
+4.temp = 'A'
+   temp = 'C'
+   temp = 'B'
+   temp = 'A';
+
+   ptr = 4435
+   temp = 'B'
+   temp = 'C'
+
+   ptr = 4434
+   temp ='B'
+   temp = 'C'
+   temp = 'C'
+   temp = 'C'
+***********************************************************
